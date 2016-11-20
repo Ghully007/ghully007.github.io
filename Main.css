@@ -1,0 +1,43 @@
+
+body {
+	background:white;
+	font-family: arial;
+}
+h1 {
+	color: #6eff25;
+	margin: 0;
+	font-style:normal;
+	padding: 10px;
+	background: black;
+}
+a {
+	color: green;
+}
+p {
+	background: black;
+	color: #6eff25;
+	padding: 10px;
+	margin-top: 9px;
+	margin-bottom: 23px;
+}
+li{
+	background: black;
+	display: inline-block;
+	list-style-type:none;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-left: 5px;
+	padding: 10px;
+	color: #6eff25;
+	border-radius: 5px;
+}
+#container{
+	position: relative;
+	max-width: 10000px;
+	max-height: 10000px;
+	min-width: 50px;
+	min-height: 50px;
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+}
